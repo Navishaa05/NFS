@@ -1,0 +1,10 @@
+   ./Test2/backup/Test1/b.txt   Path found   10.42.0.1   7080
+   ./Test1/   Path not found
+   ./Test1   Path found   10.42.0.1   7070
+      Path not found
+      Path not found
+./Test2/abracadabra.txt   ./Test1/b.txt   Path found   10.42.0.1   7070
+   ./Test1   Path found   10.42.0.1   7070
+      Path not found
+   ./Test4/backup/Test1/Greedy.mp3   Path found   10.42.0.1   7090
+   ./Test2/backup/Test1/Greedy.mp3   Path found   10.42.0.1   7080
